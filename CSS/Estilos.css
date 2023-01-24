@@ -1,0 +1,32 @@
+body { 
+	background:url(https://i.pinimg.com/564x/04/1a/07/041a07e97641667ae8e70a3147b214ac.jpg);
+}
+
+div{
+	border: solid 3px skyblue;
+	width: 80%;
+	margin: 0 auto;
+	padding: 5px;
+
+}
+
+legend{
+	border: solid 2px lightblue;
+	padding: 1px;
+	font-weight: bold;
+	border-radius: 20px;
+	background: lightblue;
+}
+
+fieldset{
+	margin-bottom: 10px;
+	border:solid 2px lightblue;
+	padding: 8px;
+}
+
+
+* {
+	font-family: 'Roboto', sans-serif;
+font-family: 'Source Code Pro', monospace;
+}	
+
