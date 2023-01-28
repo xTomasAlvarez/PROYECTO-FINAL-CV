@@ -1,3 +1,4 @@
+
 body { 
 	background:url(https://i.pinimg.com/564x/04/1a/07/041a07e97641667ae8e70a3147b214ac.jpg);
 }
@@ -28,5 +29,19 @@ fieldset{
 * {
 	font-family: 'Roboto', sans-serif;
 font-family: 'Source Code Pro', monospace;
+
 }	
 
+button {
+		-webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+text-shadow: 3px 2px 1px #9daef5;
+  -webkit-box-shadow: 6px 5px 24px #666666;
+  -moz-box-shadow: 6px 5px 24px #666666;
+  box-shadow: 6px 5px 24px #666666;
+background-image: -webkit-linear-gradient(top, darkblue, blue);
+  background-image: -moz-linear-gradient(top, skyblue, lightblue);
+  background-image: -ms-linear-gradient(top, skyblue, white);
+    background-image: linear-gradient(to bottom, skyblue, lightblue);
+}
